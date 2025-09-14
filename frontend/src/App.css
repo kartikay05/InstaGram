@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Gilroy', 'Times New Roman';
+}
+
+html, body {
+  width: 100%;
+  height: 100%;
+}
